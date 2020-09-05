@@ -6,7 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-chrome_driver_path = "/Users/mohamedbachrouch/Desktop/dev/facebook-cleaner/chromedriver"
+# make sure to download chrome driver to your machine
+# edit path of chrome driver accordingly
+chrome_driver_path = "/Users/mohamedbachrouch/Desktop/dev/facebook-cleaner/facebook-cleaner/chromedriver"
 
 driver = webdriver.Chrome(chrome_driver_path)
 

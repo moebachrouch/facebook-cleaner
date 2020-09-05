@@ -1,2 +1,3 @@
 # facebook-cleaner
-Bot for deleting personal Facebook history of posts, comments, and likes
+Bot for deleting personal Facebook history of posts, comments, and likes.
+Work in progress.
